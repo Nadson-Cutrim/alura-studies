@@ -43,9 +43,8 @@
   "devDependencies": {
     "@babel/core": "^7.27.4",
     "@babel/preset-env": "^7.27.2",
-    "@types/react": "^19.1.6",
+    "@types/react": "^17.0.62",
     "@types/uuid": "^10.0.0",
-    "babel-loader": "^10.0.0",
     "sass": "^1.89.1",
     "typescript-plugin-css-modules": "^5.1.0"
   }
